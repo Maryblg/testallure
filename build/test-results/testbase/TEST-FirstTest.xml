@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FirstTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-23T14:53:58" hostname="DESKTOP-IQLPRG6" time="20.718">
+  <properties/>
+  <testcase name="createCard" classname="FirstTest" time="20.718"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[апр 23, 2021 11:53:58 PM com.codeborne.selenide.drivercommands.LazyDriver getAndCheckWebDriver
+INFO: No webdriver is bound to current thread: 11 - let's create a new webdriver
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 18902
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1619189641.384][WARNING]: This version of ChromeDriver has not been tested with Chrome version 90.
+апр 23, 2021 11:54:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+апр 23, 2021 11:54:01 PM com.codeborne.selenide.webdriver.BrowserResizer adjustBrowserSize
+INFO: Set browser size to 1600x1000
+апр 23, 2021 11:54:01 PM com.codeborne.selenide.webdriver.WebDriverFactory logBrowserVersion
+INFO: BrowserName=chrome Version=90.0.4430.85 Platform=WINDOWS
+апр 23, 2021 11:54:01 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenide v. 5.1.0
+апр 23, 2021 11:54:01 PM com.codeborne.selenide.webdriver.WebDriverFactory logSeleniumInfo
+INFO: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+апр 23, 2021 11:54:01 PM com.codeborne.selenide.drivercommands.CreateDriverCommand createDriver
+INFO: Create webdriver in current thread 11: ChromeDriver -> ChromeDriver: chrome on WINDOWS (5b5c4864bc92f408ee44e394c941839d)
+апр 23, 2021 11:54:19 PM com.codeborne.selenide.drivercommands.CloseDriverCommand run
+INFO: Close webdriver: 11 -> ChromeDriver: chrome on WINDOWS (5b5c4864bc92f408ee44e394c941839d)
+апр 23, 2021 11:54:19 PM com.codeborne.selenide.drivercommands.CloseBrowser run
+INFO: Trying to close the browser ChromeDriver ...
+апр 23, 2021 11:54:20 PM com.codeborne.selenide.drivercommands.CloseDriverCommand run
+INFO: Closed webdriver 11 in 741 ms
+]]></system-err>
+</testsuite>
