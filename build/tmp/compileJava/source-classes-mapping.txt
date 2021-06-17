@@ -1,11 +1,11 @@
-com/easyqa/qa/pages/util/UserData.java
- com.easyqa.qa.pages.util.UserData
 com/easyqa/qa/pages/util/CardData.java
  com.easyqa.qa.pages.util.CardData
 com/easyqa/qa/pages/DashboardPage.java
  com.easyqa.qa.pages.DashboardPage
 com/easyqa/qa/pages/IssuePage.java
  com.easyqa.qa.pages.IssuePage
+com/easyqa/qa/pages/util/UserData.java
+ com.easyqa.qa.pages.util.UserData
 com/easyqa/qa/pages/LoginPage.java
  com.easyqa.qa.pages.LoginPage
 com/easyqa/qa/pages/ProjectsPage.java
