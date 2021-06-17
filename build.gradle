@@ -64,7 +64,7 @@ allure {
 
 testbase.doFirst {
     jvmArgs '-Dwdm.chromeDriverVersion=89.0.4389.23'
-    jvmArgs "javaagent:${configurations.agent.singleFile}"
+    /*jvmArgs "javaagent:${configurations.agent.singleFile}"*/
 }
 
 
